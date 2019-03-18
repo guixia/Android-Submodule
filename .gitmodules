@@ -1,0 +1,9 @@
+[submodule "common-module"]
+	path = common-module
+	url = https://github.com/guixia/common-module.git
+[submodule "mall-module"]
+	path = mall-module
+	url = https://github.com/guixia/mall-module.git
+[submodule "member-module"]
+	path = member-module
+	url = https://github.com/guixia/member-module.git

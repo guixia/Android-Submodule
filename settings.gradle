@@ -1,0 +1,1 @@
+include ':app',':common-module',':mall-module', ':member-module'
